@@ -6,7 +6,9 @@
     <a href="https://github.com/luciano-work/we_slide/stargazers">
         <img src="https://img.shields.io/github/stars/luciano-work/we_slide?colorA=1e1e28&colorB=c9cbff&style=for-the-badge&logo=starship">
     </a>
-    <a href="https://github.com/luciano-work/we_slide/issues">
+    <a href="https://github.com/luciano-work/we_s
+        
+        lide/issues">
         <img src="https://img.shields.io/github/issues/luciano-work/we_slide?colorA=1e1e28&colorB=f7be95&style=for-the-badge">
     </a>
     <a href="https://github.com/luciano-work/we_slide/contributors">
